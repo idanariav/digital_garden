@@ -21,6 +21,6 @@ i have much to say
 
 
 
-*covert to drawing shortcut: ctrl+shirt+d
+*covert to drawing shortcut: ctrl+shirt+d*
 
 
