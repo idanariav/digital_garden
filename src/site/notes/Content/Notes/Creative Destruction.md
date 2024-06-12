@@ -34,23 +34,4 @@ This means that it is up to us how to (Related:: [[Content/Notes/Freedom of resp
 
 
 # Excalidraw Data
-## Text Elements
-Creative Destruction
-{ #SV96gNTs}
-
-
-R.I.P
-CD
-{ #nK7hlDoX}
-
-
-WELCOME
-USB
-{ #PUWpS3uq}
-
-
-The new and better has to crush the old
-in order to be born
-{ #u6O6VHxi}
-
 
