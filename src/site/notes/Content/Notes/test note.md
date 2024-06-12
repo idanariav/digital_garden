@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/notes/test-note/","tags":["Type/Note","Source/Thoughts","Seed/Seedling","gardenEntry"]}
+{"dg-publish":true,"permalink":"/content/notes/test-note/","tags":["Type/Note","Source/Thoughts","Seed/Seedling","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # test note
