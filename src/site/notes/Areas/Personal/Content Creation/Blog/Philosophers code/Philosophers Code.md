@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Philosophers Code.md","permalink":"/philosophers-code/","tags":["System/Areas/Growth","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"dg-path":"Philosophers Code.md","permalink":"/philosophers-code/","tags":["System/Areas/Growth","gardenEntry"]}
 ---
 
 # Philosophers Code
@@ -13,18 +13,8 @@ Feel free to roam around, but if you are looking for some suggestions, see the f
 ## Posts
 *Ideas worth sharing (at least by my standards) - 10 most recent*
 
-| File                                                                                                                     | description                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Content/IOCs/creativity as a Rubik cube (post)\|creativity as a Rubik cube (post)]]                                 | To create something new is more a question of form than essence. It is to find with your unique view the mixture of existing ideas and objects that together will bring innovation to life. |
-| [[Content/IOCs/too little or too much (post)\|too little or too much (post)]]                                         | \-                                                                                                                                                                                          |
-| [[Content/IOCs/why i'm (still) an optimist (post)\|why i'm (still) an optimist (post)]]                               | Optimism changes our reality for the better                                                                                                                                                 |
-| [[Content/IOCs/Walking a tight rope (post)\|Walking a tight rope (post)]]                                             | The human journey called life is a constant act of balancing opposing views                                                                                                                 |
-| [[Content/IOCs/Are we capable of change (post)\|Are we capable of change (post)]]                                     | Change is a creative destruction of new identities                                                                                                                                          |
-| [[Content/IOCs/we cant have it all and thats a good thing (post)\|we cant have it all and thats a good thing (post)]] | The scarcity of time, attention and resources is the most frightening yet beneficial thing that happened to us                                                                              |
-| [[Content/IOCs/GIGO - habits, thoughts and actions (post)\|GIGO - habits, thoughts and actions (post)]]               | We need to work smarter, not harder to get better results                                                                                                                                   |
-| [[Content/IOCs/How little we control (post)\|How little we control (post)]]                                           | \-                                                                                                                                                                                          |
-| [[Content/IOCs/When your best isnt good enough (post)\|When your best isnt good enough (post)]]                       | \-                                                                                                                                                                                          |
-| [[Content/IOCs/Moral Boundaries (post)\|Moral Boundaries (post)]]                                                     | \-                                                                                                                                                                                          |
+| File | description |
+| ---- | ----------- |
 
 { .block-language-dataview}
 
