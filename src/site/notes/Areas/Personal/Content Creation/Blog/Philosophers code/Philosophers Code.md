@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal/content-creation/blog/philosophers-code/philosophers-code/","tags":["System/Areas/Growth","gardenEntry"]}
+{"dg-publish":true,"dg-path":"Philosophers Code.md","permalink":"/philosophers-code/","tags":["System/Areas/Growth","gardenEntry","gardenEntry"]}
 ---
 
 # Philosophers Code
